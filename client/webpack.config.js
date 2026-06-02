@@ -6,7 +6,7 @@ const CopyWebpackPlugin = require("copy-webpack-plugin");
 
 const PUBLIC_URL =
   process.env.NODE_ENV === "production"
-    ? "https://2025lokeshsaikumarreddy.github.io"
+    ? "https://2025lokeshsaikumarreddy.github.io/"
     : "http://localhost:3000"; // ✅ Define PUBLIC_URL for both local and production
 
 console.log("Node env" + process.env.NODE_ENV);
