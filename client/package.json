@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://2025lokeshsaikumarreddy.github.io/",
+  "homepage": "https://2025lokeshsaikumarreddy.github.io/portfolio/",
   "keywords": [],
   "author": "",
   "license": "ISC",
